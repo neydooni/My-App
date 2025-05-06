@@ -1,13 +1,44 @@
 # My-App
 محاسبه قیمت سیمان نی ریز
 
-<!DOCTYPE html>
+
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>محاسبه‌گر سیمان</title>
   <link href="https://cdn.fontcdn.ir/Font/Persian/Vazirmatn/Vazirmatn.css" rel="stylesheet">
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My App</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    .box {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>اپ من</h1>
+    <p>سلام! این یه اپ تستی روی GitHub Pages هست.</p>
+  </div>
+</body>
+</html>
+  
   <style>
     body {
       font-family: 'Vazirmatn', sans-serif;
